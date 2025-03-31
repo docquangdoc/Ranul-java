@@ -1,0 +1,13 @@
+Action\SearchAction.class
+Controller\CommandHandler.class
+Controller\Config.class
+Controller\CommandRegistry.class
+Controller\BotControlPanel.class
+Commands\HelloCommand.class
+Action\PingAction.class
+Commands\BaseCommand.class
+Controller\Main.class
+Utils\GenreManager.class
+Action\HelloAction.class
+Commands\PingCommand.class
+Commands\SearchCommand.class
