@@ -16,7 +16,8 @@ Rbot is a Discord bot developed in Java, using the [JDA](https://github.com/DV8F
    ```
 2. Create a `.env` file in the root directory and add your bot token:
    ```env
-   DISCORD_TOKEN=your-bot-token
+   TOKEN=YOUR_TOKEN
+   CLIENT_ID=BOT_ID
    ```
 3. Build the project using Maven:
    ```sh
