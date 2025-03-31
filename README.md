@@ -1,4 +1,4 @@
-# Rbot
+# Ranul-bot
 
 ## Introduction
 Rbot is a Discord bot developed in Java, using the [JDA](https://github.com/DV8FromTheWorld/JDA) library to interact with the Discord API.
