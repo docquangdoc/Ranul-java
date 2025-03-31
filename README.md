@@ -38,12 +38,18 @@ Rbot/
 │   │   │   │   ├── Config.java
 │   │   │   │   ├── CommandHandler.java
 │   │   │   │   ├── CommandRegistry.java
+│   │   │   │   ├── BotControlPanel.java
 │   │   │   ├── Commands/  
 │   │   │   │   ├── PingCommand.java
 │   │   │   │   ├── HelloCommand.java
+│   │   │   │   ├── BaseCommand.java
+│   │   │   │   ├── SearchCommand.java
 │   │   │   ├── Action/  
 │   │   │   │   ├── PingAction.java
 │   │   │   │   ├── HelloAction.java
+│   │   │   │   ├── SearchAction.java
+│   │   │   ├── Utils/  
+│   │   │   │   ├── GenreManager.java
 ```
 
 ## Dependencies
