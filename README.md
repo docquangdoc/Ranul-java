@@ -11,8 +11,8 @@ Rbot is a Discord bot developed in Java, using the [JDA](https://github.com/DV8F
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/Rbot.git
-   cd Rbot
+   git clone https://github.com/docquangdoc/Ranul-java.git
+   cd Ranul-java
    ```
 2. Create a `.env` file in the root directory and add your bot token:
    ```env
@@ -25,12 +25,12 @@ Rbot is a Discord bot developed in Java, using the [JDA](https://github.com/DV8F
    ```
 4. Run the bot:
    ```sh
-   java -jar target/Rbot-1.0-SNAPSHOT.jar
+   java -jar target/Ranul-java-1.0-SNAPSHOT.jar
    ```
 
 ## Project Structure
 ```
-Rbot/
+Ranul-java/
 │── src/
 │   ├── main/
 │   │   ├── java/
